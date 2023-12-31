@@ -3,9 +3,6 @@
 ## Introduction
 Gemini Telegram Bot is a chatbot powered by the Gemini API, designed to interact with users on the Telegram platform.
 
-## Demo
-[Click here](demo_link) to see a demo.
-
 ## How to Install
 
 ### Windows System
@@ -29,9 +26,6 @@ Gemini Telegram Bot is a chatbot powered by the Gemini API, designed to interact
      python main.py <Telegram_Bot_API> <Gemini_API_Key>
      ```
      Replace `<Telegram_Bot_API>` and `<Gemini_API_Key>` with your actual API keys.
-
-## Using Docker on Windows
-If you prefer Docker, you can follow the Linux Docker deployment steps. Ensure Docker Desktop is installed on your Windows machine.
 
 ## How to Use
 - Send your questions directly in private messages.
